@@ -18,7 +18,7 @@ Includes text preprocessing, sentiment prediction, and result visualization.
 - Scikit-learn
 - NLTK / spaCy
 - Matplotlib, Seaborn
-- Jupyter Notebook (for development and testing)
+- Google Colab (for development and testing)
 
 
 ## 📊 Example Output
@@ -31,7 +31,7 @@ Includes text preprocessing, sentiment prediction, and result visualization.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-sentiment-analysis.git
-   cd ecommerce-sentiment-analysis
+   git clone https://github.com/mr-nobody2003/Product-Sentiment-Analysis.git
+   cd Product-Sentiment-Analysis
 
 
